@@ -1,5 +1,4 @@
 <script>
-  import Youtube from "svelte-youtube-embed";
   export let data;
 
   let id = '';
@@ -44,8 +43,6 @@
           <video controls>
             <source src="{link.video}" type="video/mp4">
           </video>
-          {:else}
-            <Youtube id="{link.youtube}"/>
           {/if}
         </dd>
       </div>
