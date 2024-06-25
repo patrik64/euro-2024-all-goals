@@ -1,0 +1,99 @@
+[
+  {
+    "id": 13,
+    "team1": "Croatia",
+    "team2": "Albania",
+    "flag1": "croatia.png",
+    "flag2": "albania.png",
+    "result": "2 - 2"
+  },
+  {
+    "id": 14,
+    "team1": "Germany",
+    "team2": "Hungary",
+    "flag1": "germany.png",
+    "flag2": "hungary.png",
+    "result": "2 - 0"
+  },
+  {
+    "id": 15,
+    "team1": "Scotland",
+    "team2": "Switzerland",
+    "flag1": "scotland.png",
+    "flag2": "switzerland.png",
+    "result": "1 - 1"
+  },
+  {
+    "id": 16,
+    "team1": "Slovenia",
+    "team2": "Serbia",
+    "flag1": "slovenia.png",
+    "flag2": "serbia.png",
+    "result": "1 - 1"
+  },
+  {
+    "id": 17,
+    "team1": "Denmark",
+    "team2": "England",
+    "flag1": "denmark.png",
+    "flag2": "england.png",
+    "result": "1 - 1"
+  },
+  {
+    "id": 18,
+    "team1": "Spain",
+    "team2": "Italy",
+    "flag1": "spain.png",
+    "flag2": "italy.png",
+    "result": "1 - 0"
+  },
+  {
+    "id": 19,
+    "team1": "Slovakia",
+    "team2": "Ukraine",
+    "flag1": "slovakia.png",
+    "flag2": "ukraine.png",
+    "result": "1 - 2"
+  },
+  {
+    "id": 20,
+    "team1": "Poland",
+    "team2": "Austria",
+    "flag1": "poland.png",
+    "flag2": "austria.png",
+    "result": "1 - 3"
+  },
+  {
+    "id": 21,
+    "team1": "Netherlands",
+    "team2": "France",
+    "flag1": "netherlands.png",
+    "flag2": "france.png",
+    "result": "0 - 0"
+  },
+  {
+    "id": 22,
+    "team1": "Georgia",
+    "team2": "Czechia",
+    "flag1": "georgia.png",
+    "flag2": "czechia.png",
+    "result": "1 - 1"
+  },
+  {
+    "id": 23,
+    "team1": "Turkey",
+    "team2": "Portugal",
+    "flag1": "turkey.png",
+    "flag2": "portugal.png",
+    "result": "1 - 3"
+  },
+  {
+    "id": 24,
+    "team1": "Belgium",
+    "team2": "Romania",
+    "flag1": "belgium.png",
+    "flag2": "romania.png",
+    "result": "2 - 1"
+  }
+]
+  
