@@ -5,7 +5,14 @@
     "team2": "Scotland",
     "flag1": "germany.png",
     "flag2": "scotland.png",
-    "result": "5 - 1"
+    "result": "5 - 1",
+    "links": [
+      {
+        "currentresult": "1:0",
+        "link": "",
+        "snippet": ""
+      }
+    ]
   },
   {
     "id": 2,
