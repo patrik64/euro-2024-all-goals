@@ -89,15 +89,21 @@
     "team2": "Poland",
     "flag1": "france.png",
     "flag2": "poland.png",
-    "result": "1 - 0",
+    "result": "1 - 1",
     "result1": "1",
-    "result2": "0",
+    "result2": "1",
     "links": [
       {
         "currentresult1": "1",
         "currentresult2": "0",
         "link": "https://dubz.co/v/ea1612",
         "video": "https://squeelab.com/uploaded/1719335741.mp4"
+      },
+      {
+        "currentresult1": "1",
+        "currentresult2": "1",
+        "link": "https://dubz.co/v/8eeecf",
+        "video": "https://squeelab.com/uploaded/1719337112.mp4"
       }
     ]
   }, 
@@ -107,9 +113,9 @@
     "team2": "Austria",
     "flag1": "netherlands.png",
     "flag2": "austria.png",
-    "result": "1 - 2",
-    "result1": "1",
-    "result2": "2",
+    "result": "2 - 3",
+    "result1": "2",
+    "result2": "3",
     "links": [
       {
         "currentresult1": "0",
@@ -128,6 +134,18 @@
         "currentresult2": "2",
         "link": "https://dubz.co/v/d2e63d",
         "video": "https://squeelab.com/uploaded/1719335862.mp4"
+      },
+      {
+        "currentresult1": "2",
+        "currentresult2": "2",
+        "link": "https://dubz.co/v/1e10fe",
+        "video": "https://squeelab.com/uploaded/1719337428.mp4"
+      },
+      {
+        "currentresult1": "2",
+        "currentresult2": "3",
+        "link": "https://streamin.me/v/65605ab3",
+        "video": "https://streamin.me/v/65605ab3"
       }
     ]
   }
