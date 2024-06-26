@@ -307,6 +307,10 @@
         {
           "currentresult1": "0",
           "currentresult2": "1",
+          "player": "Jude Bellingham",
+          "playerimage": "judebellingham.webp",
+          "playerwiki": "https://en.wikipedia.org/wiki/Jude_Bellingham",
+          "minute": "13",
           "link": "https://dubz.co/v/a5pvrf",
           "video": "https://squeelab.com/uploaded/1718565250.mp4"
         }
@@ -325,18 +329,30 @@
         {
           "currentresult1": "1",
           "currentresult2": "0",
+          "player": "Nicolae Stanciu",
+          "playerimage": "nicolaestanciu.webp",
+          "playerwiki": "https://en.wikipedia.org/wiki/Nicolae_Stanciu_(footballer,_born_1993)",
+          "minute": "29",
           "link": "https://streamff.com/v/7Q6KMF7NAF",
           "video": "https://streamff.com/uploads/1718631007962.mp4"
         },
         {
           "currentresult1": "2",
           "currentresult2": "0",
+          "player": "Răzvan Marin",
+          "playerimage": "razvanmarin.webp",
+          "playerwiki": "https://en.wikipedia.org/wiki/R%C4%83zvan_Marin",
+          "minute": "53",
           "link": "https://streamff.com/v/RzScA6s7R8",
           "video": "https://streamff.com/uploads/1718633496382.mp4"
         },
         {
           "currentresult1": "3",
           "currentresult2": "0",
+          "player": "Denis Drăguș",
+          "playerimage": "denisdragus.webp",
+          "playerwiki": "https://en.wikipedia.org/wiki/Denis_Dr%C4%83gu%C8%99",
+          "minute": "57",
           "link": "https://streamff.com/v/WqcwFyeIlG",
           "video": "https://streamff.com/uploads/1718633784567.mp4"
         }
@@ -355,6 +371,10 @@
         {
           "currentresult1": "0",
           "currentresult2": "1",
+          "player": "Ivan Schranz",
+          "playerimage": "ivanschranz.webp",
+          "playerwiki": "https://en.wikipedia.org/wiki/Ivan_Schranz",
+          "minute": "7",
           "link": "https://streamff.com/v/NIdFiesOSY",
           "video": "https://streamff.com/uploads/1718640492985.mp4"
         }
@@ -373,6 +393,10 @@
         {
           "currentresult1": "0",
           "currentresult2": "1",
+          "player": "Maximilian Wöber",
+          "playerimage": "maximillianwober.webp",
+          "playerwiki": "https://en.wikipedia.org/wiki/Maximilian_W%C3%B6ber",
+          "minute": "38 (OG)",
           "link": "https://dubz.co/v/4rb6xz",
           "video": "https://squeelab.com/uploaded/1718653118.mp4"
         }
@@ -391,24 +415,40 @@
         {
           "currentresult1": "1",
           "currentresult2": "0",
+          "player": "Mert Müldür",
+          "playerimage": "mertmuludur.webp",
+          "playerwiki": "https://en.wikipedia.org/wiki/Mert_M%C3%BCld%C3%BCr",
+          "minute": "25",
           "link": "https://dubz.co/v/rfj2hg",
           "video": "https://squeelab.com/uploaded/1718727999.mp4"
         },
         {
           "currentresult1": "1",
           "currentresult2": "1",
+          "player": "Georges Mikautadze",
+          "playerimage": "georgesmikautadze.webp",
+          "playerwiki": "https://en.wikipedia.org/wiki/Georges_Mikautadze",
+          "minute": "32",
           "link": "https://dubz.co/v/68nfhk",
           "video": "https://squeelab.com/uploaded/1718728410.mp4"
         },
         {
           "currentresult1": "2",
           "currentresult2": "1",
+          "player": "Arda Güler",
+          "playerimage": "ardaguler.webp",
+          "playerwiki": "https://en.wikipedia.org/wiki/Arda_G%C3%BCler",
+          "minute": "65",
           "link": "https://dubz.co/v/rvfc06",
           "video": "https://squeelab.com/uploaded/1718731449.mp4"
         },
         {
           "currentresult1": "3",
           "currentresult2": "1",
+          "player": "Kerem Aktürkoğlu",
+          "playerimage": "keremakturkoglu.webp",
+          "playerwiki": "https://en.wikipedia.org/wiki/Kerem_Akt%C3%BCrko%C4%9Flu",
+          "minute": "90+7",
           "link": "https://dubz.co/v/v9h361",
           "video": "https://squeelab.com/uploaded/1718733354.mp4"
         }
@@ -427,18 +467,30 @@
         {
           "currentresult1": "0",
           "currentresult2": "1",
+          "player": "Lukáš Provod",
+          "playerimage": "lukasprovod.webp",
+          "playerwiki": "https://en.wikipedia.org/wiki/Luk%C3%A1%C5%A1_Provod",
+          "minute": "62",
           "link": "https://dubz.co/v/236vd4",
           "video": "https://squeelab.com/uploaded/1718742007.mp4"
         },
         {
           "currentresult1": "1",
           "currentresult2": "1",
+          "player": "Robin Hranáč",
+          "playerimage": "robinhranac.webp",
+          "playerwiki": "https://en.wikipedia.org/wiki/Robin_Hran%C3%A1%C4%8D",
+          "minute": "69",
           "link": "https://dubz.co/v/3d4hkv",
           "video": "https://squeelab.com/uploaded/1718742443.mp4"
         },
         {
           "currentresult1": "2",
           "currentresult2": "1",
+          "player": "Francisco Conceição",
+          "playerimage": "franciscoconceicao.webp",
+          "playerwiki": "https://en.wikipedia.org/wiki/Francisco_Concei%C3%A7%C3%A3o",
+          "minute": "90+2",
           "link": "https://dubz.co/v/p4k7px",
           "video": "https://squeelab.com/uploaded/1718743836.mp4"
         }
