@@ -15,12 +15,12 @@
     <ul class="py-6 mx-4 grid grid-cols-2 gap-x-2 gap-y-8 sm:grid-cols-4 md:gap-x-6 lg:max-w-6xl lg:gap-x-8 lg:gap-y-8 xl:grid-cols-6">
       {#each round1 as game}
         <li>
-        <div class="w-40 whitespace-nowrap bg-white mx-4 mt-4 select-none cursor-pointer rounded-lg shadow-lg hover:bg-tertiary-500 hover:border-gray-700 transition duration-500 ease-in-out">
+        <div class="w-[11rem] whitespace-nowrap bg-white mx-4 mt-4 select-none cursor-pointer rounded-lg shadow-lg hover:bg-tertiary-500 hover:border-gray-700 transition duration-500 ease-in-out">
           <a href={`/${game.id}`}>
             <div class="flex flex-col p-4">
             <div class="flex">
-              <img class="mx-auto h-10 w-10 rounded-full object-cover" src={`/images/countries/${game.flag1}`} alt={game.team1} />
-              <img class="mx-auto h-10 w-10 rounded-full object-cover" src={`/images/countries/${game.flag2}`} alt={game.team2} />
+              <img class="mx-auto h-10 w-10 rounded-md object-cover" src={`/images/countries/${game.flag1}`} alt={game.team1} />
+              <img class="mx-auto h-10 w-10 rounded-md object-cover" src={`/images/countries/${game.flag2}`} alt={game.team2} />
             </div>
             <div class="space-y-2">
               <div class="text-xs font-medium lg:text-sm text-center">
@@ -49,12 +49,12 @@
     <ul class="py-6 mx-4 grid grid-cols-2 gap-x-2 gap-y-8 sm:grid-cols-4 md:gap-x-6 lg:max-w-6xl lg:gap-x-8 lg:gap-y-8 xl:grid-cols-6">
       {#each round2 as game}
         <li>
-        <div class="w-40 whitespace-nowrap bg-white mx-4 mt-4 select-none cursor-pointer rounded-lg shadow-lg hover:bg-tertiary-500 hover:border-gray-700 transition duration-500 ease-in-out">
+        <div class="w-[11rem] whitespace-nowrap bg-white mx-4 mt-4 select-none cursor-pointer rounded-lg shadow-lg hover:bg-tertiary-500 hover:border-gray-700 transition duration-500 ease-in-out">
           <a href={`/${game.id}`}>
             <div class="flex flex-col p-4">
             <div class="flex">
-              <img class="mx-auto h-10 w-10 rounded-full object-cover" src={`/images/countries/${game.flag1}`} alt={game.team1} />
-              <img class="mx-auto h-10 w-10 rounded-full object-cover" src={`/images/countries/${game.flag2}`} alt={game.team2} />
+              <img class="mx-auto h-10 w-10 rounded-md object-cover" src={`/images/countries/${game.flag1}`} alt={game.team1} />
+              <img class="mx-auto h-10 w-10 rounded-md object-cover" src={`/images/countries/${game.flag2}`} alt={game.team2} />
             </div>
             <div class="space-y-2">
               <div class="text-xs font-medium lg:text-sm text-center">
@@ -83,12 +83,12 @@
     <ul class="py-6 mx-4 grid grid-cols-2 gap-x-2 gap-y-8 sm:grid-cols-4 md:gap-x-6 lg:max-w-6xl lg:gap-x-8 lg:gap-y-8 xl:grid-cols-6">
       {#each round3 as game}
         <li>
-          <div class="w-40 whitespace-nowrap bg-white mx-4 mt-4 select-none cursor-pointer rounded-lg shadow-lg hover:bg-tertiary-500 hover:border-gray-700 transition duration-500 ease-in-out">
+          <div class="w-[11rem] whitespace-nowrap bg-white mx-4 mt-4 select-none cursor-pointer rounded-lg shadow-lg hover:bg-tertiary-500 hover:border-gray-700 transition duration-500 ease-in-out">
             <a href={`/${game.id}`}>
               <div class="flex flex-col p-4">
               <div class="flex">
-                <img class="mx-auto h-10 w-10 rounded-full object-cover" src={`/images/countries/${game.flag1}`} alt={game.team1} />
-                <img class="mx-auto h-10 w-10 rounded-full object-cover" src={`/images/countries/${game.flag2}`} alt={game.team2} />
+                <img class="mx-auto h-10 w-10 rounded-md object-cover" src={`/images/countries/${game.flag1}`} alt={game.team1} />
+                <img class="mx-auto h-10 w-10 rounded-md object-cover" src={`/images/countries/${game.flag2}`} alt={game.team2} />
               </div>
               <div class="space-y-2">
                 <div class="whitespace-nowrap text-xs font-medium lg:text-sm text-center">
