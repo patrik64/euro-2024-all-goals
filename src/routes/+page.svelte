@@ -12,10 +12,10 @@
   </div>
 
   <div>
-    <ul class="py-6 mx-4 grid grid-cols-2 gap-x-2 gap-y-8 sm:grid-cols-4 md:gap-x-6 lg:max-w-6xl lg:gap-x-8 lg:gap-y-8 xl:grid-cols-6">
+    <ul class="py-6 mx-4 grid grid-cols-2 gap-y-8 sm:grid-cols-4 md:gap-x-6 lg:max-w-6xl lg:gap-x-8 lg:gap-y-8 xl:grid-cols-6">
       {#each round1 as game}
         <li>
-        <div class="w-[11rem] whitespace-nowrap bg-white mx-4 mt-4 select-none cursor-pointer rounded-lg shadow-lg hover:bg-tertiary-500 hover:border-gray-700 transition duration-500 ease-in-out">
+        <div class="w-[11rem] whitespace-nowrap bg-white lg:mx-4 mt-4 select-none cursor-pointer rounded-lg shadow-lg hover:bg-tertiary-500 hover:border-gray-700 transition duration-500 ease-in-out">
           <a href={`/${game.id}`}>
             <div class="flex flex-col p-4">
             <div class="flex">
@@ -46,10 +46,10 @@
   </div>
 
   <div>
-    <ul class="py-6 mx-4 grid grid-cols-2 gap-x-2 gap-y-8 sm:grid-cols-4 md:gap-x-6 lg:max-w-6xl lg:gap-x-8 lg:gap-y-8 xl:grid-cols-6">
+    <ul class="py-6 mx-4 grid grid-cols-2 gap-y-8 sm:grid-cols-4 md:gap-x-6 lg:max-w-6xl lg:gap-x-8 lg:gap-y-8 xl:grid-cols-6">
       {#each round2 as game}
         <li>
-        <div class="w-[11rem] whitespace-nowrap bg-white mx-4 mt-4 select-none cursor-pointer rounded-lg shadow-lg hover:bg-tertiary-500 hover:border-gray-700 transition duration-500 ease-in-out">
+        <div class="w-[11rem] whitespace-nowrap bg-white lg:mx-4 mt-4 select-none cursor-pointer rounded-lg shadow-lg hover:bg-tertiary-500 hover:border-gray-700 transition duration-500 ease-in-out">
           <a href={`/${game.id}`}>
             <div class="flex flex-col p-4">
             <div class="flex">
@@ -80,10 +80,10 @@
   </div>
 
   <div>
-    <ul class="py-6 mx-4 grid grid-cols-2 gap-x-2 gap-y-8 sm:grid-cols-4 md:gap-x-6 lg:max-w-6xl lg:gap-x-8 lg:gap-y-8 xl:grid-cols-6">
+    <ul class="py-6 mx-4 grid grid-cols-2 gap-y-8 sm:grid-cols-4 md:gap-x-6 lg:max-w-6xl lg:gap-x-8 lg:gap-y-8 xl:grid-cols-6">
       {#each round3 as game}
         <li>
-          <div class="w-[11rem] whitespace-nowrap bg-white mx-4 mt-4 select-none cursor-pointer rounded-lg shadow-lg hover:bg-tertiary-500 hover:border-gray-700 transition duration-500 ease-in-out">
+          <div class="w-[11rem] whitespace-nowrap bg-white lg:mx-4 mt-4 select-none cursor-pointer rounded-lg shadow-lg hover:bg-tertiary-500 hover:border-gray-700 transition duration-500 ease-in-out">
             <a href={`/${game.id}`}>
               <div class="flex flex-col p-4">
               <div class="flex">
