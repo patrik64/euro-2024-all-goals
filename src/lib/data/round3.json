@@ -229,10 +229,21 @@
     "team2": "Romania",
     "flag1": "slovakia.png",
     "flag2": "romania.png",
-    "result": "0 - 0",
-    "result1": "0",
+    "result": "1 - 0",
+    "result1": "1",
     "result2": "0",
-    "links": []
+    "links": [
+      {
+        "currentresult1": "1",
+        "currentresult2": "0",
+        "player": "Ondrej Duda",
+        "playerimage": "ondrejduda.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Ondrej_Duda",
+        "minute": "24",
+        "link": "https://dubz.co/c/9a7b4c",
+        "video": "https://dubzalt.com/storage/videos/9a7b4c.mp4"
+      }
+    ]
   },
   {
     "id": 34,
