@@ -37,9 +37,15 @@
 		display: flex;
 		flex-direction: column;
 		min-height: 100vh;
+    background-color: #CFE2E2;
 	}
 
   main {
     flex: 1;
   }
+
+  body {
+    background-color: #CFE2E2;
+  }
 </style>
+
