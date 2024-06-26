@@ -186,6 +186,10 @@
         {
           "currentresult1": "0",
           "currentresult2": "1",
+          "player": "Nedim Bajrami",
+          "playerimage": "nedimbajrami.webp",
+          "playerwiki": "https://en.wikipedia.org/wiki/Nedim_Bajrami",
+          "minute": "1",
           "link": "https://dubz.co/v/26s8dr",
           "video": "https://squeelab.com/uploaded/1718478162.mp4"
         },
@@ -193,6 +197,10 @@
           "currentresult": "1:1",
           "currentresult1": "1",
           "currentresult2": "1",
+          "player": "Alessandro Bastoni",
+          "playerimage": "alessandrobastoni.webp",
+          "playerwiki": "https://en.wikipedia.org/wiki/Alessandro_Bastoni",
+          "minute": "11",
           "link": "https://dubz.co/v/rbsq1r",
           "video": "https://squeelab.com/uploaded/1718478705.mp4"
         },
@@ -200,6 +208,10 @@
           "currentresult": "2:1",
           "currentresult1": "2",
           "currentresult2": "1",
+          "player": "Nicolò Barella",
+          "playerimage": "nicolobarella.webp",
+          "playerwiki": "https://en.wikipedia.org/wiki/Nicol%C3%B2_Barella",
+          "minute": "16",
           "link": "https://dubz.co/c/cc4246",
           "video": "https://dubzalt.com/storage/videos/cc4246.mp4"
         }
@@ -218,6 +230,10 @@
         {
           "currentresult1": "1",
           "currentresult2": "0",
+          "player": "Adam Buksa",
+          "playerimage": "adambuksa.webp",
+          "playerwiki": "https://en.wikipedia.org/wiki/Adam_Buksa",
+          "minute": "16",
           "link": "https://dubz.co/v/r7s4x7",
           "video": "https://squeelab.com/uploaded/1718543813.mp4"
         },
@@ -225,6 +241,10 @@
           "currentresult": "1:1",
           "currentresult1": "1",
           "currentresult2": "1",
+          "player": "Cody Gakpo",
+          "playerimage": "codygakpo.webp",
+          "playerwiki": "https://en.wikipedia.org/wiki/Cody_Gakpo",
+          "minute": "29",
           "link": "https://dubz.co/v/qr58b6",
           "video": "https://squeelab.com/uploaded/1718544586.mp4"
         },
@@ -232,6 +252,10 @@
           "currentresult": "2:1",
           "currentresult1": "2",
           "currentresult2": "1",
+          "player": "Wout Weghorst",
+          "playerimage": "woutweghorst.webp",
+          "playerwiki": "https://en.wikipedia.org/wiki/Wout_Weghorst",
+          "minute": "83",
           "link": "https://dubz.co/v/0x2110",
           "video": "https://squeelab.com/uploaded/1718548849.mp4"
         }
@@ -250,6 +274,10 @@
         {
           "currentresult1": "0",
           "currentresult2": "1",
+          "player": "Christian Eriksen",
+          "playerimage": "christianeriksen.webp",
+          "playerwiki": "https://en.wikipedia.org/wiki/Christian_Eriksen",
+          "minute": "17",
           "link": "https://dubz.co/v/kb3ksk",
           "video": "https://squeelab.com/uploaded/1718554647.mp4"
         },
@@ -257,6 +285,10 @@
           "currentresult": "1:1",
           "currentresult1": "1",
           "currentresult2": "1",
+          "player": "Erik Janža",
+          "playerimage": "erikjanza.webp",
+          "playerwiki": "https://en.wikipedia.org/wiki/Erik_Jan%C5%BEa",
+          "minute": "77",
           "link": "https://dubz.co/v/60xq4m",
           "video": "https://squeelab.com/uploaded/1718559248.mp4"
         }
