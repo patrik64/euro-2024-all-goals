@@ -304,9 +304,9 @@
     "team2": "Turkey",
     "flag1": "czechia.png",
     "flag2": "turkey.png",
-    "result": "1 - 1",
+    "result": "1 - 2",
     "result1": "1",
-    "result2": "1",
+    "result2": "2",
     "links": [
       {
         "currentresult1": "0",
@@ -327,6 +327,16 @@
         "minute": "66",
         "link": "https://dubz.co/v/3d106b",
         "video": "https://squeelab.com/uploaded/1719433526.mp4"
+      },
+      {
+        "currentresult1": "1",
+        "currentresult2": "2",
+        "player": "Cenk Tosun",
+        "playerimage": "cenktosun.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Cenk_Tosun",
+        "minute": "90+4",
+        "link": "https://dubz.co/v/e6b3b4",
+        "video": "https://squeelab.com/uploaded/1719435338.mp4"
       }
     ]
   }
