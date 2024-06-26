@@ -12,12 +12,20 @@
       {
         "currentresult1": "1",
         "currentresult2": "0",
+        "player": "Dan Ndoye",
+        "playerimage": "danndoye.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Dan_Ndoye",
+        "minute": "28",
         "link": "https://dubz.link/v/3104c8",
         "video": "https://squeelab.com/uploaded/1719170971.mp4"
       },
       {
         "currentresult1": "1",
         "currentresult2": "1",
+        "player": "Niclas Füllkrug",
+        "playerimage": "niclasfullkrug.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Niclas_F%C3%BCllkrug",
+        "minute": "90+2",
         "link": "https://dubz.co/v/0b79bb",
         "video": "https://squeelab.com/uploaded/1719175832.mp4"
       }
@@ -36,6 +44,10 @@
       {
         "currentresult1": "0",
         "currentresult2": "1",
+        "player": "Kevin Csoboth",
+        "playerimage": "kevincsoboth.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Kevin_Csoboth",
+        "minute": "90+10",
         "link": "https://dubz.co/v/23435b",
         "video": "https://squeelab.com/uploaded/1719176255.mp4"
       }
@@ -54,6 +66,10 @@
       {
         "currentresult1": "0",
         "currentresult2": "1",
+        "player": "Ferran Torres",
+        "playerimage": "ferrantorres.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Ferran_Torres",
+        "minute": "13",
         "link": "https://dubz.co/v/9b446e",
         "video": "https://squeelab.com/uploaded/1719256409.mp4"
       }
@@ -72,12 +88,20 @@
       {
         "currentresult1": "1",
         "currentresult2": "0",
+        "player": "Luka Modrić",
+        "playerimage": "lukamodric.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87",
+        "minute": "55",
         "link": "https://dubz.co/v/df0c32",
         "video": "https://squeelab.com/uploaded/1719260033.mp4"
       },
       {
         "currentresult1": "1",
         "currentresult2": "1",
+        "player": "Mattia Zaccagni",
+        "playerimage": "mattiazaccagni.webp",
+        "playerwiki": "",
+        "minute": "90+8",
         "link": "https://dubz.co/v/a5bf4e",
         "video": "https://squeelab.com/uploaded/1719262617.mp4"
       }
@@ -96,12 +120,20 @@
       {
         "currentresult1": "1",
         "currentresult2": "0",
+        "player": "Kylian Mbappé",
+        "playerimage": "kyloanmbappe.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9",
+        "minute": "56",
         "link": "https://dubz.co/v/ea1612",
         "video": "https://squeelab.com/uploaded/1719335741.mp4"
       },
       {
         "currentresult1": "1",
         "currentresult2": "1",
+        "player": "Robert Lewandowski",
+        "playerimage": "robertlewandowski.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Robert_Lewandowski",
+        "minute": "79",
         "link": "https://dubz.co/v/8eeecf",
         "video": "https://squeelab.com/uploaded/1719337112.mp4"
       }
@@ -120,30 +152,50 @@
       {
         "currentresult1": "0",
         "currentresult2": "1",
+        "player": "Donyell Malen",
+        "playerimage": "donyellmalen.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Donyell_Malen",
+        "minute": "6 (OG)",
         "link": "https://dubz.co/v/0e8ea7",
         "video": "https://squeelab.com/uploaded/1719331624.mp4"
       },
       {
         "currentresult1": "1",
         "currentresult2": "1",
+        "player": "Cody Gakpo",
+        "playerimage": "codygakpo.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Cody_Gakpo",
+        "minute": "47",
         "link": "https://dubz.co/v/d817b0",
         "video": "https://squeelab.com/uploaded/1719335118.mp4"
       },
       {
         "currentresult1": "1",
         "currentresult2": "2",
+        "player": "Romano Schmid",
+        "playerimage": "romanoschmid.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Romano_Schmid",
+        "minute": "59",
         "link": "https://dubz.co/v/d2e63d",
         "video": "https://squeelab.com/uploaded/1719335862.mp4"
       },
       {
         "currentresult1": "2",
         "currentresult2": "2",
+        "player": "Memphis Depay",
+        "playerimage": "memphisdepay.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Memphis_Depay",
+        "minute": "75",
         "link": "https://dubz.co/v/1e10fe",
         "video": "https://squeelab.com/uploaded/1719337428.mp4"
       },
       {
         "currentresult1": "2",
         "currentresult2": "3",
+        "player": "Marcel Sabitzer",
+        "playerimage": "marcelsabitzer.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Marcel_Sabitzer",
+        "minute": "80",
         "link": "https://dubz.co/c/b4e8dd",
         "video": "https://dubzalt.com/storage/videos/b4e8dd.mp4"
       }
