@@ -12,6 +12,10 @@
       {
         "currentresult1": "1",
         "currentresult2": "0",
+        "player": "Florian Wirtz",
+        "playerimage": "florianwirtz.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Florian_Wirtz",
+        "minute": "10",
         "link": "https://dubz.co/v/1tjrs9",
         "video": "https://squeelab.com/uploaded/1718392371.mp4"
       },
@@ -19,6 +23,10 @@
         "currentresult": "2:0",
         "currentresult1": "2",
         "currentresult2": "0",
+        "player": "Jamal Musiala",
+        "playerimage": "jamalmusiala.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Jamal_Musiala",
+        "minute": "19",
         "link": "https://dubz.co/v/qtk1z6",
         "video": "https://squeelab.com/uploaded/1718392900.mp4"
       },
@@ -26,6 +34,10 @@
         "currentresult": "3:0",
         "currentresult1": "3",
         "currentresult2": "0",
+        "player": "Kai Havertz",
+        "playerimage": "kaihavertz.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Kai_Havertz",
+        "minute": "45+1",
         "link": "https://dubz.co/v/rh5j98",
         "video": "https://squeelab.com/uploaded/1718394500.mp4"
       },
@@ -33,18 +45,30 @@
         "currentresult": "4:0",
         "currentresult1": "4",
         "currentresult2": "0",
+        "player": "Niclas Füllkrug",
+        "playerimage": "niclasfullkrug.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Niclas_F%C3%BCllkrug",
+        "minute": "68",
         "link": "https://dubz.co/v/j215x6",
         "video": "https://squeelab.com/uploaded/1718397013.mp4"
       },
       {
         "currentresult1": "4",
         "currentresult2": "1",
+        "player": "Antonio Rüdiger",
+        "playerimage": "antoniorudiger.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Antonio_R%C3%BCdiger",
+        "minute": "87 (OG)",
         "link": "https://dubz.co/v/mz6f01",
         "video": "https://squeelab.com/uploaded/1718398141.mp4"
       },
       {
         "currentresult1": "5",
         "currentresult2": "1",
+        "player": "Emre Can",
+        "playerimage": "emrecan.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Emre_Can",
+        "minute": "90+3",
         "link": "https://dubz.co/v/m6b4m5",
         "video": "https://squeelab.com/uploaded/1718398507.mp4"
       }
@@ -63,6 +87,10 @@
       {
         "currentresult1": "0",
         "currentresult2": "1",
+        "player": "Kwadwo Duah",
+        "playerimage": "kwadwoduah.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Kwadwo_Duah",
+        "minute": "12",
         "link": "https://dubz.co/c/35ae56",
         "video": "https://dubzalt.com/storage/videos/35ae56.mp4"
       },
@@ -70,6 +98,10 @@
         "currentresult": "0:2",
         "currentresult1": "0",
         "currentresult2": "2",
+        "player": "Michel Aebischer",
+        "playerimage": "michelaebischer.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Michel_Aebischer",
+        "minute": "45",
         "link": "https://dubz.co/v/6615r1",
         "video": "https://squeelab.com/uploaded/1718459191.mp4"
       },
@@ -77,6 +109,10 @@
         "currentresult": "1:2",
         "currentresult1": "1",
         "currentresult2": "2",
+        "player": "Barnabás Varga",
+        "playerimage": "barnabasvarga.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Barnab%C3%A1s_Varga",
+        "minute": "66",
         "link": "https://dubz.co/v/16y1z3",
         "video": "https://squeelab.com/uploaded/1718461547.mp4"
       },
@@ -84,6 +120,10 @@
         "currentresult": "1:3",
         "currentresult1": "1",
         "currentresult2": "3",
+        "player": "Breel Embolo",
+        "playerimage": "breelembolo.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Breel_Embolo",
+        "minute": "90+3",
         "link": "https://dubz.co/c/033c4a",
         "video": "https://dubzalt.com/storage/videos/033c4a.mp4"
       }
@@ -102,6 +142,10 @@
         {
           "currentresult1": "1",
           "currentresult2": "0",
+          "player": "Álvaro Morata",
+          "playerimage": "alvaromorata.webp",
+          "playerwiki": "https://en.wikipedia.org/wiki/%C3%81lvaro_Morata",
+          "minute": "29",
           "link": "https://dubz.co/v/h5647p",
           "video": "https://squeelab.com/uploaded/1718468981.mp4"
         },
@@ -109,6 +153,10 @@
           "currentresult": "2:0",
           "currentresult1": "2",
           "currentresult2": "0",
+          "player": "Fabián Ruiz",
+          "playerimage": "fabianruiz.webp",
+          "playerwiki": "https://en.wikipedia.org/wiki/Fabi%C3%A1n_Ruiz",
+          "minute": "32",
           "link": "https://dubz.co/v/k2nfyk",
           "video": "https://squeelab.com/uploaded/1718469188.mp4"
         },
@@ -116,6 +164,10 @@
           "currentresult": "3:0",
           "currentresult1": "3",
           "currentresult2": "0",
+          "player": "Dani Carvajal",
+          "playerimage": "danicarvajal.webp",
+          "playerwiki": "https://en.wikipedia.org/wiki/Dani_Carvajal",
+          "minute": "45+2",
           "link": "https://dubz.co/v/966pyz",
           "video": "https://squeelab.com/uploaded/1718470108.mp4"
         }

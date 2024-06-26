@@ -34,9 +34,22 @@
     <dl class="sm:divide-y sm:divide-gray-200">
       <div class="py-4 sm:py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
         <dt class="text-sm font-medium text-gray-600">
-          <a rel="external" href="{link.link}" class="text-teal-800 space-y-4">
-            {game.team1} {link.currentresult1} - {game.team2} {link.currentresult2}
+          <div>
+            <a rel="external" href="{link.link}" class="text-teal-800 space-y-4">
+              {game.team1} {link.currentresult1} - {game.team2} {link.currentresult2}
+            </a>
+          </div>
+          {#if link.player}
+          <div class="my-2">
+            <a rel="external" href="{link.playerwiki}" class="text-gray-500 space-y-4">
+              {link.player} - {link.minute}"
+            </a>
+          </div>
+
+          <a rel="external" href="{link.playerwiki}">
+            <img class="h-40 w-30 rounded-lg object-cover" src={`/images/players/${link.playerimage}`} alt={link.player} />
           </a>
+          {/if}
         </dt>
         <dd class="mt-1 text-sm text-gray-600 sm:mt-0 sm:col-span-2">
           {#if link.video.length > 0}
