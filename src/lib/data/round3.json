@@ -229,9 +229,9 @@
     "team2": "Romania",
     "flag1": "slovakia.png",
     "flag2": "romania.png",
-    "result": "1 - 0",
+    "result": "1 - 1",
     "result1": "1",
-    "result2": "0",
+    "result2": "1",
     "links": [
       {
         "currentresult1": "1",
@@ -242,6 +242,16 @@
         "minute": "24",
         "link": "https://dubz.co/c/9a7b4c",
         "video": "https://dubzalt.com/storage/videos/9a7b4c.mp4"
+      },
+      {
+        "currentresult1": "1",
+        "currentresult2": "1",
+        "player": "Răzvan Marin",
+        "playerimage": "razvanmarin.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/R%C4%83zvan_Marin",
+        "minute": "37",
+        "link": "https://dubz.co/c/8fd0ff",
+        "video": "https://dubzalt.com/storage/videos/8fd0ff.mp4"
       }
     ]
   },
