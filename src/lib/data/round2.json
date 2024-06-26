@@ -12,24 +12,40 @@
       {
         "currentresult1": "0",
         "currentresult2": "1",
+        "player": "Qazim Laçi",
+        "playerimage": "qazimlaci.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Qazim_La%C3%A7i",
+        "minute": "11",
         "link": "https://dubz.link/c/2dbaf9",
         "video": "https://dubzalt.com/storage/videos/2dbaf9.mp4"
       },
       {
         "currentresult1": "1",
         "currentresult2": "1",
+        "player": "Andrej Kramarić",
+        "playerimage": "andrejkramaric.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Andrej_Kramari%C4%87",
+        "minute": "74",
         "link": "https://dubz.link/c/07b699",
         "video": "https://dubzalt.com/storage/videos/07b699.mp4"
       },
       {
         "currentresult1": "2",
         "currentresult2": "1",
+        "player": "Klaus Gjasula",
+        "playerimage": "klausgjasula.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Klaus_Gjasula",
+        "minute": "76 (OG)",
         "link": "https://dubz.link/c/7d39e2",
         "video": "https://dubzalt.com/storage/videos/7d39e2.mp4"
       },
       {
         "currentresult1": "2",
         "currentresult2": "2",
+        "player": "Klaus Gjasula",
+        "playerimage": "klausgjasula.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Klaus_Gjasula",
+        "minute": "90+5",
         "link": "https://dubz.link/c/e0eeeb",
         "video": "https://dubzalt.com/storage/videos/e0eeeb.mp4"
       }
@@ -48,12 +64,20 @@
       {
         "currentresult1": "1",
         "currentresult2": "0",
+        "player": "Jamal Musiala",
+        "playerimage": "jamalmusiala.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Jamal_Musiala",
+        "minute": "22",
         "link": "https://dubz.co/v/6h6kaa",
         "video": "https://squeelab.com/uploaded/1718814147.mp4"
       },
       {
         "currentresult1": "2",
         "currentresult2": "0",
+        "player": "İlkay Gündoğan",
+        "playerimage": "ilkaygundogan.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/%C4%B0lkay_G%C3%BCndo%C4%9Fan",
+        "minute": "67",
         "link": "https://dubz.co/v/b38xqp",
         "video": "https://squeelab.com/uploaded/1718817978.mp4"
       }
@@ -72,12 +96,20 @@
       {
         "currentresult1": "1",
         "currentresult2": "0",
+        "player": "Scott McTominay",
+        "playerimage": "scottmctominay.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Scott_McTominay",
+        "minute": "13",
         "link": "https://dubz.co/c/d36919",
         "video": "https://dubzalt.com/storage/videos/d36919.mp4"
       },
       {
         "currentresult1": "1",
         "currentresult2": "1",
+        "player": "Xherdan Shaqiri",
+        "playerimage": "xherdanshaqiri.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Xherdan_Shaqiri",
+        "minute": "26",
         "link": "https://dubz.co/c/4d1b43",
         "video": "https://dubzalt.com/storage/videos/4d1b43.mp4"
       }
@@ -96,12 +128,20 @@
       {
         "currentresult1": "1",
         "currentresult2": "0",
+        "player": "Žan Karničnik",
+        "playerimage": "zankarnicnik.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/%C5%BDan_Karni%C4%8Dnik",
+        "minute": "69",
         "link": "https://dubz.link/v/4c25be",
         "video": "https://squeelab.com/uploaded/1718893757.mp4"
       },
       {
         "currentresult1": "1",
         "currentresult2": "1",
+        "player": "Luka Jović",
+        "playerimage": "lukajovic.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Luka_Jovi%C4%87",
+        "minute": "90+5",
         "link": "https://dubz.co/v/553ff7",
         "video": "https://squeelab.com/uploaded/1718895219.mp4"
       }
@@ -120,12 +160,20 @@
       {
         "currentresult1": "0",
         "currentresult2": "1",
+        "player": "Harry Kane",
+        "playerimage": "harrykane.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Harry_Kane",
+        "minute": "18",
         "link": "https://dubz.co/c/3a5cfa",
         "video": "https://dubzalt.com/storage/videos/3a5cfa.mp4"
       },
       {
         "currentresult1": "1",
         "currentresult2": "1",
+        "player": "Morten Hjulmand",
+        "playerimage": "mortenhjulmand.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Morten_Hjulmand",
+        "minute": "34",
         "link": "https://dubz.link/v/a16026",
         "video": "https://squeelab.com/uploaded/1718901418.mp4"
       }
@@ -144,6 +192,10 @@
       {
         "currentresult1": "1",
         "currentresult2": "0",
+        "player": "Riccardo Calafiori",
+        "playerimage": "riccardocalafiori.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Riccardo_Calafiori",
+        "minute": "",
         "link": "https://dubz.link/v/7e9eea",
         "video": "https://squeelab.com/uploaded/1718914513.mp4"
       }
@@ -162,18 +214,30 @@
       {
         "currentresult1": "1",
         "currentresult2": "0",
+        "player": "Ivan Schranz",
+        "playerimage": "ivanschranz.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Ivan_Schranz",
+        "minute": "17",
         "link": "https://streamff.com/v/yzhF46YhcN",
         "video": "https://streamff.com/uploads/1718975952194.mp4"
       },
       {
         "currentresult1": "1",
         "currentresult2": "1",
+        "player": "Mykola Shaparenko",
+        "playerimage": "mykolashaparenko.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Mykola_Shaparenko",
+        "minute": "54",
         "link": "https://streamff.com/v/oNs8yiQRF0",
         "video": "https://streamff.com/uploads/1718979131761.mp4"
       },
       {
         "currentresult1": "1",
         "currentresult2": "2",
+        "player": "Roman Yaremchuk",
+        "playerimage": "romanyaremchuk.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Roman_Yaremchuk",
+        "minute": "80",
         "link": "https://streamff.com/v/UqV95HVXAk",
         "video": "https://streamff.com/uploads/1718980698643.mp4"
       }
@@ -192,24 +256,40 @@
       {
         "currentresult1": "0",
         "currentresult2": "1",
+        "player": "Gernot Trauner",
+        "playerimage": "gernottrauner.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Gernot_Trauner",
+        "minute": "9",
         "link": "https://dubz.link/v/a75123",
         "video": "https://squeelab.com/uploaded/1718986295.mp4"
       },
       {
         "currentresult1": "1",
         "currentresult2": "1",
+        "player": "Krzysztof Piątek",
+        "playerimage": "krzysztofpiatek.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Krzysztof_Pi%C4%85tek",
+        "minute": "30",
         "link": "https://dubz.co/v/e746c5",
         "video": "https://squeelab.com/uploaded/1718987546.mp4"
       },
       {
         "currentresult1": "1",
         "currentresult2": "2",
+        "player": "Christoph Baumgartner",
+        "playerimage": "christophbaumgartner.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Christoph_Baumgartner",
+        "minute": "66",
         "link": "https://dubz.co/v/816c3b",
         "video": "https://squeelab.com/uploaded/1718990850.mp4"
       },
       {
         "currentresult1": "1",
         "currentresult2": "3",
+        "player": "Marko Arnautović",
+        "playerimage": "markoarnautovic.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Marko_Arnautovi%C4%87",
+        "minute": "78",
         "link": "https://dubz.co/v/091b5f",
         "video": "https://squeelab.com/uploaded/1718991545.mp4"
       }
@@ -239,12 +319,20 @@
       {
         "currentresult1": "1",
         "currentresult2": "0",
+        "player": "Georges Mikautadze",
+        "playerimage": "georgesmikautadze.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Georges_Mikautadze",
+        "minute": "45+4",
         "link": "https://dubz.link/v/13652a",
         "video": "https://squeelab.com/uploaded/1719064156.mp4"
       },
       {
         "currentresult1": "1",
         "currentresult2": "1",
+        "player": "Patrik Schick",
+        "playerimage": "patrikschick.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Patrik_Schick",
+        "minute": "59",
         "link": "https://dubz.co/v/54abc4",
         "video": "https://squeelab.com/uploaded/1719066049.mp4"
       }
@@ -263,18 +351,30 @@
       {
         "currentresult1": "0",
         "currentresult2": "1",
+        "player": "Bernardo Silva",
+        "playerimage": "bernardosilva.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Bernardo_Silva",
+        "minute": "21",
         "link": "https://dubz.co/v/eeea35",
         "video": "https://squeelab.com/uploaded/1719073374.mp4"
       },
       {
         "currentresult1": "0",
         "currentresult2": "2",
+        "player": "Samet Akaydin",
+        "playerimage": "sametakaydin.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Samet_Akaydin",
+        "minute": "28 (OG)",
         "link": "https://dubz.co/v/284c4a",
         "video": "https://squeelab.com/uploaded/1719073776.mp4"
       },
       {
         "currentresult1": "1",
         "currentresult2": "1",
+        "player": "Bruno Fernandes",
+        "playerimage": "brunofernandes.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Bruno_Fernandes",
+        "minute": "56",
         "link": "https://dubz.link/v/6dda2b",
         "video": "https://squeelab.com/uploaded/1719076462.mp4"
       }
@@ -293,12 +393,20 @@
       {
         "currentresult1": "1",
         "currentresult2": "0",
+        "player": "Youri Tielemans",
+        "playerimage": "youritielemans.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Youri_Tielemans",
+        "minute": "2",
         "link": "https://streamff.com/v/C8dHJStqGB",
         "video": "https://streamff.com/uploads/1719082932421.mp4"
       },
       {
         "currentresult1": "2",
         "currentresult2": "0",
+        "player": "Kevin De Bruyne",
+        "playerimage": "kevindebruyne.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Kevin_De_Bruyne",
+        "minute": "80",
         "link": "https://streamff.com/v/Mje08JVyjz",
         "video": "https://streamff.com/uploads/1719088532900.mp4"
       }
