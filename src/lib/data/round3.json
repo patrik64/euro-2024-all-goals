@@ -272,10 +272,21 @@
     "team2": "Portugal",
     "flag1": "georgia.png",
     "flag2": "portugal.png",
-    "result": "0 - 0",
-    "result1": "0",
+    "result": "1 - 0",
+    "result1": "1",
     "result2": "0",
-    "links": []
+    "links": [
+      {
+        "currentresult1": "1",
+        "currentresult2": "0",
+        "player": "Khvicha Kvaratskhelia",
+        "playerimage": "kvicha.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Khvicha_Kvaratskhelia",
+        "minute": "2",
+        "link": "https://dubz.co/v/e44b2b",
+        "video": "https://squeelab.com/uploaded/1719428561.mp4"
+      }
+    ]
   },
   {
     "id": 32,
