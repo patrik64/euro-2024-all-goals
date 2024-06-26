@@ -272,8 +272,8 @@
     "team2": "Portugal",
     "flag1": "georgia.png",
     "flag2": "portugal.png",
-    "result": "1 - 0",
-    "result1": "1",
+    "result": "2 - 0",
+    "result1": "2",
     "result2": "0",
     "links": [
       {
@@ -285,6 +285,16 @@
         "minute": "2",
         "link": "https://dubz.co/v/e44b2b",
         "video": "https://squeelab.com/uploaded/1719428561.mp4"
+      },
+      {
+        "currentresult1": "2",
+        "currentresult2": "0",
+        "player": "Georges Mikautadze",
+        "playerimage": "georgesmikautadze.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Georges_Mikautadze",
+        "minute": "57",
+        "link": "https://dubz.co/v/ec8078",
+        "video": "https://squeelab.com/uploaded/1719433022.mp4"
       }
     ]
   },
