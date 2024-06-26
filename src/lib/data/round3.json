@@ -265,5 +265,27 @@
     "result1": "0",
     "result2": "0",
     "links": []
+  },
+  {
+    "id": 35,
+    "team1": "Georgia",
+    "team2": "Portugal",
+    "flag1": "georgia.png",
+    "flag2": "portugal.png",
+    "result": "0 - 0",
+    "result1": "0",
+    "result2": "0",
+    "links": []
+  },
+  {
+    "id": 32,
+    "team1": "Czechia",
+    "team2": "Turkey",
+    "flag1": "czechia.png",
+    "flag2": "turkey.png",
+    "result": "0 - 0",
+    "result1": "0",
+    "result2": "0",
+    "links": []
   }
 ]
