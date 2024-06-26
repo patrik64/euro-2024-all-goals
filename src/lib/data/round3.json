@@ -299,14 +299,25 @@
     ]
   },
   {
-    "id": 32,
+    "id": 36,
     "team1": "Czechia",
     "team2": "Turkey",
     "flag1": "czechia.png",
     "flag2": "turkey.png",
-    "result": "0 - 0",
+    "result": "0 - 1",
     "result1": "0",
-    "result2": "0",
-    "links": []
+    "result2": "1",
+    "links": [
+      {
+        "currentresult1": "0",
+        "currentresult2": "1",
+        "player": "Hakan Çalhanoğlu",
+        "playerimage": "hakancalhanoglu.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Hakan_%C3%87alhano%C4%9Flu",
+        "minute": "51",
+        "link": "https://dubz.co/v/e44b2b",
+        "video": "https://squeelab.com/uploaded/1719428561.mp4"
+      }
+    ]
   }
 ]
