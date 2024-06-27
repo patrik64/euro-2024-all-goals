@@ -27,8 +27,20 @@
 {#if game}
 <div class="my-10 mx-auto lg:w-1/2 bg-white shadow overflow-hidden sm:rounded-lg">
   <div class="px-4 py-5 sm:px-6">
-    <div class="text-2xl leading-6 font-medium">{game.team1} {game.result1} - {game.team2} {game.result2}</div>
+    <div class="text-2xl leading-6 font-medium">
+      {game.team1} {game.result1} - {game.team2} {game.result2}</div>
   </div>
+  <div class="px-4 sm:px-6">
+    <div class="font-medium text-gray-500">{game.date}</div>
+  </div>
+  <div class="px-4 py-2 sm:px-6">
+    <div class="font-medium text-blue-800">
+      <a rel="external" href="{game.venuewiki}">
+      {game.venue}
+    </a>
+  </div>
+  </div>
+
   <div class="border-t border-gray-200 px-4 py-5 sm:p-0">
     {#each game.links as link}
     <dl class="sm:divide-y sm:divide-gray-200">

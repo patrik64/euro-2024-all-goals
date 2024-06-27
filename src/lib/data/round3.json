@@ -8,6 +8,9 @@
     "result": "1 - 1",
     "result1": "1",
     "result2": "1",
+    "date": "23.6.2024 - 21:00",
+    "venue": "Frankfurt - Waldstadion",
+    "venuewiki": "https://en.wikipedia.org/wiki/Waldstadion_(Frankfurt)",
     "links": [
       {
         "currentresult1": "1",
@@ -40,6 +43,9 @@
     "result": "0 - 1",
     "result1": "0",
     "result2": "1",
+    "date": "23.6.2024 - 21:00",
+    "venue": "Stuttgart - MHPArena",
+    "venuewiki": "https://en.wikipedia.org/wiki/MHPArena",
     "links": [
       {
         "currentresult1": "0",
@@ -62,6 +68,9 @@
     "result": "0 - 1",
     "result1": "0",
     "result2": "1",
+    "date": "24.6.2024 - 21:00",
+    "venue": "Düsseldorf - Merkur Spiel-Arena",
+    "venuewiki": "https://en.wikipedia.org/wiki/Merkur_Spiel-Arena",
     "links": [
       {
         "currentresult1": "0",
@@ -84,6 +93,9 @@
     "result": "1 - 1",
     "result1": "1",
     "result2": "1",
+    "date": "24.6.2024 - 21:00",
+    "venue": "Leipzig - Red Bull Arena",
+    "venuewiki": "https://en.wikipedia.org/wiki/Red_Bull_Arena_(Leipzig)",
     "links": [
       {
         "currentresult1": "1",
@@ -116,6 +128,9 @@
     "result": "1 - 1",
     "result1": "1",
     "result2": "1",
+    "date": "25.6.2024 - 18:00",
+    "venue": "Dortmund - Westfalenstadion",
+    "venuewiki": "https://en.wikipedia.org/wiki/Westfalenstadion",
     "links": [
       {
         "currentresult1": "1",
@@ -148,6 +163,9 @@
     "result": "2 - 3",
     "result1": "2",
     "result2": "3",
+    "date": "25.6.2024 - 18:00",
+    "venue": "Berlin - Olympiastadion",
+    "venuewiki": "https://en.wikipedia.org/wiki/Olympiastadion_(Berlin)",
     "links": [
       {
         "currentresult1": "0",
@@ -210,6 +228,9 @@
     "result": "0 - 0",
     "result1": "0",
     "result2": "0",
+    "date": "25.6.2024 - 21:00",
+    "venue": "Munich - Allianz Arena",
+    "venuewiki": "https://en.wikipedia.org/wiki/Allianz_Arena",
     "links": []
   },
   {
@@ -221,6 +242,9 @@
     "result": "0 - 0",
     "result1": "0",
     "result2": "0",
+    "date": "25.6.2024 - 21:00",
+    "venue": "Cologne - RheinEnergieStadion",
+    "venuewiki": "https://en.wikipedia.org/wiki/RheinEnergieStadion",
     "links": []
   },
   {
@@ -232,6 +256,9 @@
     "result": "1 - 1",
     "result1": "1",
     "result2": "1",
+    "date": "26.6.2024 - 18:00",
+    "venue": "Frankfurt - Waldstadion",
+    "venuewiki": "https://en.wikipedia.org/wiki/Waldstadion_(Frankfurt)",
     "links": [
       {
         "currentresult1": "1",
@@ -264,6 +291,9 @@
     "result": "0 - 0",
     "result1": "0",
     "result2": "0",
+    "date": "26.6.2024 - 18:00",
+    "venue": "Stuttgart - MHPArena",
+    "venuewiki": "https://en.wikipedia.org/wiki/MHPArena",
     "links": []
   },
   {
@@ -275,6 +305,9 @@
     "result": "2 - 0",
     "result1": "2",
     "result2": "0",
+    "date": "26.6.2024 - 21:00",
+    "venue": "Gelsenkirchen - Arena AufSchalke",
+    "venuewiki": "https://en.wikipedia.org/wiki/Arena_AufSchalke",
     "links": [
       {
         "currentresult1": "1",
@@ -307,6 +340,9 @@
     "result": "1 - 2",
     "result1": "1",
     "result2": "2",
+    "date": "26.6.2024 - 21:00",
+    "venue": "Hamburg - Volksparkstadion",
+    "venuewiki": "https://en.wikipedia.org/wiki/Volksparkstadion",
     "links": [
       {
         "currentresult1": "0",
