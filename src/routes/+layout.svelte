@@ -43,9 +43,5 @@
   main {
     flex: 1;
   }
-
-  body {
-    background-color: #CFE2E2;
-  }
 </style>
 
