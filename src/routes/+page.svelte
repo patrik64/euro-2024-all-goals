@@ -15,7 +15,7 @@
   </div>
 
   <div>
-    <ul class="py-6 mx-4 grid grid-cols-2 gap-y-8 sm:grid-cols-4 md:gap-x-6 lg:max-w-4xl lg:gap-x-8 lg:gap-y-8 xl:grid-cols-4">
+    <ul class="py-6 mx-4 lg:m-auto grid grid-cols-2 gap-y-8 sm:grid-cols-4 md:gap-x-6 lg:max-w-4xl lg:gap-x-8 lg:gap-y-8 xl:grid-cols-4">
       {#each round16 as game}
         <li>
           <div class="w-[10rem] md:w-[11rem] whitespace-nowrap bg-white lg:mx-4 mt-4 select-none cursor-pointer rounded-lg shadow-lg hover:bg-tertiary-500 hover:border-gray-700 transition duration-500 ease-in-out">
