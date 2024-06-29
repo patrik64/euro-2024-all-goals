@@ -5,8 +5,8 @@
       "team2": "Italy",
       "flag1": "switzerland.png",
       "flag2": "italy.png",
-      "result": "1 - 0",
-      "result1": "1",
+      "result": "2 - 0",
+      "result1": "2",
       "result2": "0",
       "date": "29.6.2024 - 18:00",
       "venue": "Berlin - Olympiastadion",
@@ -21,7 +21,18 @@
             "minute": "37",
             "link": "https://dubz.co/v/5f7c95",
             "video": "https://squeelab.com/uploaded/1719679182.mp4"
-          }
+        },
+        {
+            "currentresult1": "2",
+            "currentresult2": "0",
+            "player": "Ruben Vargas",
+            "playerimage": "rubenvargas.webp",
+            "playerwiki": "https://en.wikipedia.org/wiki/Ruben_Vargas",
+            "minute": "46",
+            "link": "https://dubz.co/v/159b5c",
+            "video": "https://squeelab.com/uploaded/1719680806.mp4"
+        }
+
       ]
     }
 ]
