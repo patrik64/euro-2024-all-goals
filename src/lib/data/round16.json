@@ -41,8 +41,8 @@
         "team2": "Denmark",
         "flag1": "germany.png",
         "flag2": "denmark.png",
-        "result": "1 - 0",
-        "result1": "1",
+        "result": "2 - 0",
+        "result1": "2",
         "result2": "0",
         "date": "29.6.2024 - 21:00",
         "venue": "Dortmund - Westfalenstadion",
@@ -58,6 +58,17 @@
             "minute": "53",
             "link": "https://dubz.co/v/5e2517",
             "video": "https://squeelab.com/uploaded/1719693366.mp4"
+          },
+          {
+            "currentresult": "2:0",
+            "currentresult1": "2",
+            "currentresult2": "0",
+            "player": "Jamal Musiala",
+            "playerimage": "jamalmusiala.webp",
+            "playerwiki": "https://en.wikipedia.org/wiki/Jamal_Musiala",
+            "minute": "68",
+            "link": "https://dubz.co/v/b26f9a",
+            "video": "https://squeelab.com/uploaded/1719694276.mp4"
           }
         ]
     }
