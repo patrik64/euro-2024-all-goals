@@ -5,12 +5,23 @@
       "team2": "Italy",
       "flag1": "switzerland.png",
       "flag2": "italy.png",
-      "result": "0 - 0",
-      "result1": "0",
+      "result": "1 - 0",
+      "result1": "1",
       "result2": "0",
       "date": "29.6.2024 - 18:00",
       "venue": "Berlin - Olympiastadion",
       "venuewiki": "https://en.wikipedia.org/wiki/Olympiastadion_(Berlin)",
-      "links": []
+      "links": [
+        {
+            "currentresult1": "1",
+            "currentresult2": "0",
+            "player": "Remo Freuler",
+            "playerimage": "remofreuler.webp",
+            "playerwiki": "https://en.wikipedia.org/wiki/Remo_Freuler",
+            "minute": "37",
+            "link": "https://dubz.co/v/5f7c95",
+            "video": "https://squeelab.com/uploaded/1719679182.mp4"
+          }
+      ]
     }
 ]
