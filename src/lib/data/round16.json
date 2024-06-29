@@ -34,5 +34,19 @@
         }
 
       ]
+    },
+    {
+        "id": 38,
+        "team1": "Germany",
+        "team2": "Denmark",
+        "flag1": "germany.png",
+        "flag2": "denmark.png",
+        "result": "0 - 0",
+        "result1": "0",
+        "result2": "0",
+        "date": "29.6.2024 - 21:00",
+        "venue": "Dortmund - Westfalenstadion",
+        "venuewiki": "https://en.wikipedia.org/wiki/Westfalenstadion",
+        "links": []
     }
 ]
