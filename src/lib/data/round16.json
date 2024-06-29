@@ -41,12 +41,24 @@
         "team2": "Denmark",
         "flag1": "germany.png",
         "flag2": "denmark.png",
-        "result": "0 - 0",
-        "result1": "0",
+        "result": "1 - 0",
+        "result1": "1",
         "result2": "0",
         "date": "29.6.2024 - 21:00",
         "venue": "Dortmund - Westfalenstadion",
         "venuewiki": "https://en.wikipedia.org/wiki/Westfalenstadion",
-        "links": []
+        "links": [
+          {
+            "currentresult": "1:0",
+            "currentresult1": "1",
+            "currentresult2": "0",
+            "player": "Kai Havertz",
+            "playerimage": "kaihavertz.webp",
+            "playerwiki": "https://en.wikipedia.org/wiki/Kai_Havertz",
+            "minute": "53",
+            "link": "https://dubz.co/v/5e2517",
+            "video": "https://squeelab.com/uploaded/1719693366.mp4"
+          }
+        ]
     }
 ]
