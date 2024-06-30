@@ -123,8 +123,8 @@
     "team2": "Georgia",
     "flag1": "spain.png",
     "flag2": "georgia.png",
-    "result": "1 - 1",
-    "result1": "1",
+    "result": "2 - 1",
+    "result1": "2",
     "result2": "1",
     "date": "30.6.2024 - 21:00",
     "venue": "Cologne - RheinEnergieStadion",
@@ -149,6 +149,16 @@
         "minute": "39",
         "link": "https://dubz.co/v/5557f6",
         "video": "https://squeelab.com/uploaded/1719776354.mp4"
+      },
+      {
+        "currentresult1": "2",
+        "currentresult2": "1",
+        "player": "Fabián Ruiz",
+        "playerimage": "fabianruiz.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Fabi%C3%A1n_Ruiz",
+        "minute": "51",
+        "link": "https://dubz.co/v/28795c",
+        "video": "https://squeelab.com/uploaded/1719778180.mp4"
       }
     ]
   }
