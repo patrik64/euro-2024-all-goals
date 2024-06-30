@@ -123,8 +123,8 @@
     "team2": "Georgia",
     "flag1": "spain.png",
     "flag2": "georgia.png",
-    "result": "0 - 1",
-    "result1": "0",
+    "result": "1 - 1",
+    "result1": "1",
     "result2": "1",
     "date": "30.6.2024 - 21:00",
     "venue": "Cologne - RheinEnergieStadion",
@@ -139,6 +139,16 @@
         "minute": "18 (OG)",
         "link": "https://dubz.co/c/b5b40a",
         "video": "https://dubzalt.com/storage/videos/b5b40a.mp4"
+      },
+      {
+        "currentresult1": "1",
+        "currentresult2": "1",
+        "player": "Rodri",
+        "playerimage": "rodri.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Rodri_(footballer%2C_born_1996)",
+        "minute": "39",
+        "link": "https://dubz.co/v/5557f6",
+        "video": "https://squeelab.com/uploaded/1719776354.mp4"
       }
     ]
   }
