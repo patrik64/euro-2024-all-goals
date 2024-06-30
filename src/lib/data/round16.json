@@ -71,5 +71,19 @@
             "video": "https://squeelab.com/uploaded/1719694276.mp4"
           }
         ]
+    },
+    {
+      "id": 39,
+      "team1": "England",
+      "team2": "Slovakia",
+      "flag1": "england.png",
+      "flag2": "slovakia.png",
+      "result": "0 - 0",
+      "result1": "0",
+      "result2": "0",
+      "date": "30.6.2024 - 18:00",
+      "venue": "Gelsenkirchen - Arena AufSchalke",
+      "venuewiki": "https://en.wikipedia.org/wiki/Arena_AufSchalke",
+      "links": []
     }
 ]

@@ -72,6 +72,7 @@
           {#if link.video.length > 0}
           <video controls>
             <source src="{link.video}" type="video/mp4">
+            <track kind="captions" />
           </video>
           {/if}
         </dd>
