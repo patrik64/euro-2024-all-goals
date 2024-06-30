@@ -78,12 +78,23 @@
       "team2": "Slovakia",
       "flag1": "england.png",
       "flag2": "slovakia.png",
-      "result": "0 - 0",
-      "result1": "0",
+      "result": "1 - 0",
+      "result1": "1",
       "result2": "0",
       "date": "30.6.2024 - 18:00",
       "venue": "Gelsenkirchen - Arena AufSchalke",
       "venuewiki": "https://en.wikipedia.org/wiki/Arena_AufSchalke",
-      "links": []
+      "links": [
+      {
+        "currentresult1": "1",
+        "currentresult2": "0",
+        "player": "Ivan Schranz",
+        "playerimage": "ivanschranz.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Ivan_Schranz",
+        "minute": "25",
+        "link": "https://dubz.co/v/ba55cc",
+        "video": "https://squeelab.com/uploaded/1719764721.mp4"
+      }
+    ]
     }
 ]
