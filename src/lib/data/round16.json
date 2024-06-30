@@ -123,8 +123,8 @@
     "team2": "Georgia",
     "flag1": "spain.png",
     "flag2": "georgia.png",
-    "result": "2 - 1",
-    "result1": "2",
+    "result": "3 - 1",
+    "result1": "3",
     "result2": "1",
     "date": "30.6.2024 - 21:00",
     "venue": "Cologne - RheinEnergieStadion",
@@ -159,6 +159,16 @@
         "minute": "51",
         "link": "https://dubz.co/v/28795c",
         "video": "https://squeelab.com/uploaded/1719778180.mp4"
+      },
+      {
+        "currentresult1": "3",
+        "currentresult2": "1",
+        "player": "Nico Williams",
+        "playerimage": "nicowilliams.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Nico_Williams",
+        "minute": "75",
+        "link": "https://dubz.co/v/416bd9",
+        "video": "https://squeelab.com/uploaded/1719779618.mp4"
       }
     ]
   }
