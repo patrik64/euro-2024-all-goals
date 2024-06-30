@@ -1,120 +1,134 @@
 [
-    {
-      "id": 37,
-      "team1": "Switzerland",
-      "team2": "Italy",
-      "flag1": "switzerland.png",
-      "flag2": "italy.png",
+  {
+    "id": 37,
+    "team1": "Switzerland",
+    "team2": "Italy",
+    "flag1": "switzerland.png",
+    "flag2": "italy.png",
+    "result": "2 - 0",
+    "result1": "2",
+    "result2": "0",
+    "date": "29.6.2024 - 18:00",
+    "venue": "Berlin - Olympiastadion",
+    "venuewiki": "https://en.wikipedia.org/wiki/Olympiastadion_(Berlin)",
+    "links": [
+      {
+          "currentresult1": "1",
+          "currentresult2": "0",
+          "player": "Remo Freuler",
+          "playerimage": "remofreuler.webp",
+          "playerwiki": "https://en.wikipedia.org/wiki/Remo_Freuler",
+          "minute": "37",
+          "link": "https://dubz.co/v/5f7c95",
+          "video": "https://squeelab.com/uploaded/1719679182.mp4"
+      },
+      {
+          "currentresult1": "2",
+          "currentresult2": "0",
+          "player": "Ruben Vargas",
+          "playerimage": "rubenvargas.webp",
+          "playerwiki": "https://en.wikipedia.org/wiki/Ruben_Vargas",
+          "minute": "46",
+          "link": "https://dubz.co/v/159b5c",
+          "video": "https://squeelab.com/uploaded/1719680806.mp4"
+      }
+
+    ]
+  },
+  {
+      "id": 38,
+      "team1": "Germany",
+      "team2": "Denmark",
+      "flag1": "germany.png",
+      "flag2": "denmark.png",
       "result": "2 - 0",
       "result1": "2",
       "result2": "0",
-      "date": "29.6.2024 - 18:00",
-      "venue": "Berlin - Olympiastadion",
-      "venuewiki": "https://en.wikipedia.org/wiki/Olympiastadion_(Berlin)",
+      "date": "29.6.2024 - 21:00",
+      "venue": "Dortmund - Westfalenstadion",
+      "venuewiki": "https://en.wikipedia.org/wiki/Westfalenstadion",
       "links": [
         {
-            "currentresult1": "1",
-            "currentresult2": "0",
-            "player": "Remo Freuler",
-            "playerimage": "remofreuler.webp",
-            "playerwiki": "https://en.wikipedia.org/wiki/Remo_Freuler",
-            "minute": "37",
-            "link": "https://dubz.co/v/5f7c95",
-            "video": "https://squeelab.com/uploaded/1719679182.mp4"
+          "currentresult": "1:0",
+          "currentresult1": "1",
+          "currentresult2": "0",
+          "player": "Kai Havertz",
+          "playerimage": "kaihavertz.webp",
+          "playerwiki": "https://en.wikipedia.org/wiki/Kai_Havertz",
+          "minute": "53",
+          "link": "https://dubz.co/v/5e2517",
+          "video": "https://squeelab.com/uploaded/1719693366.mp4"
         },
         {
-            "currentresult1": "2",
-            "currentresult2": "0",
-            "player": "Ruben Vargas",
-            "playerimage": "rubenvargas.webp",
-            "playerwiki": "https://en.wikipedia.org/wiki/Ruben_Vargas",
-            "minute": "46",
-            "link": "https://dubz.co/v/159b5c",
-            "video": "https://squeelab.com/uploaded/1719680806.mp4"
+          "currentresult": "2:0",
+          "currentresult1": "2",
+          "currentresult2": "0",
+          "player": "Jamal Musiala",
+          "playerimage": "jamalmusiala.webp",
+          "playerwiki": "https://en.wikipedia.org/wiki/Jamal_Musiala",
+          "minute": "68",
+          "link": "https://dubz.co/v/b26f9a",
+          "video": "https://squeelab.com/uploaded/1719694276.mp4"
         }
-
       ]
+  },
+  {
+    "id": 39,
+    "team1": "England",
+    "team2": "Slovakia",
+    "flag1": "england.png",
+    "flag2": "slovakia.png",
+    "result": "2 - 1",
+    "result1": "2",
+    "result2": "1",
+    "date": "30.6.2024 - 18:00",
+    "venue": "Gelsenkirchen - Arena AufSchalke",
+    "venuewiki": "https://en.wikipedia.org/wiki/Arena_AufSchalke",
+    "links": [
+    {
+      "currentresult1": "0",
+      "currentresult2": "1",
+      "player": "Ivan Schranz",
+      "playerimage": "ivanschranz.webp",
+      "playerwiki": "https://en.wikipedia.org/wiki/Ivan_Schranz",
+      "minute": "25",
+      "link": "https://dubz.co/v/ba55cc",
+      "video": "https://squeelab.com/uploaded/1719764721.mp4"
     },
     {
-        "id": 38,
-        "team1": "Germany",
-        "team2": "Denmark",
-        "flag1": "germany.png",
-        "flag2": "denmark.png",
-        "result": "2 - 0",
-        "result1": "2",
-        "result2": "0",
-        "date": "29.6.2024 - 21:00",
-        "venue": "Dortmund - Westfalenstadion",
-        "venuewiki": "https://en.wikipedia.org/wiki/Westfalenstadion",
-        "links": [
-          {
-            "currentresult": "1:0",
-            "currentresult1": "1",
-            "currentresult2": "0",
-            "player": "Kai Havertz",
-            "playerimage": "kaihavertz.webp",
-            "playerwiki": "https://en.wikipedia.org/wiki/Kai_Havertz",
-            "minute": "53",
-            "link": "https://dubz.co/v/5e2517",
-            "video": "https://squeelab.com/uploaded/1719693366.mp4"
-          },
-          {
-            "currentresult": "2:0",
-            "currentresult1": "2",
-            "currentresult2": "0",
-            "player": "Jamal Musiala",
-            "playerimage": "jamalmusiala.webp",
-            "playerwiki": "https://en.wikipedia.org/wiki/Jamal_Musiala",
-            "minute": "68",
-            "link": "https://dubz.co/v/b26f9a",
-            "video": "https://squeelab.com/uploaded/1719694276.mp4"
-          }
-        ]
+      "currentresult1": "1",
+      "currentresult2": "1",
+      "player": "Jude Bellingham",
+      "playerimage": "judebellingham.webp",
+      "playerwiki": "https://en.wikipedia.org/wiki/Jude_Bellingham",
+      "minute": "90+5",
+      "link": "https://dubz.co/v/fbe118",
+      "video": "https://squeelab.com/uploaded/1719770090.mp4"
     },
     {
-      "id": 39,
-      "team1": "England",
-      "team2": "Slovakia",
-      "flag1": "england.png",
-      "flag2": "slovakia.png",
-      "result": "2 - 1",
-      "result1": "2",
-      "result2": "1",
-      "date": "30.6.2024 - 18:00",
-      "venue": "Gelsenkirchen - Arena AufSchalke",
-      "venuewiki": "https://en.wikipedia.org/wiki/Arena_AufSchalke",
-      "links": [
-      {
-        "currentresult1": "0",
-        "currentresult2": "1",
-        "player": "Ivan Schranz",
-        "playerimage": "ivanschranz.webp",
-        "playerwiki": "https://en.wikipedia.org/wiki/Ivan_Schranz",
-        "minute": "25",
-        "link": "https://dubz.co/v/ba55cc",
-        "video": "https://squeelab.com/uploaded/1719764721.mp4"
-      },
-      {
-        "currentresult1": "1",
-        "currentresult2": "1",
-        "player": "Jude Bellingham",
-        "playerimage": "judebellingham.webp",
-        "playerwiki": "https://en.wikipedia.org/wiki/Jude_Bellingham",
-        "minute": "90+5",
-        "link": "https://dubz.co/v/fbe118",
-        "video": "https://squeelab.com/uploaded/1719770090.mp4"
-      },
-      {
-        "currentresult1": "2",
-        "currentresult2": "1",
-        "player": "Harry Kane",
-        "playerimage": "harrykane.webp",
-        "playerwiki": "https://en.wikipedia.org/wiki/Harry_Kane",
-        "minute": "91",
-        "link": "https://dubz.co/v/84af30",
-        "video": "https://squeelab.com/uploaded/1719770601.mp4"
-      }
-    ]
+      "currentresult1": "2",
+      "currentresult2": "1",
+      "player": "Harry Kane",
+      "playerimage": "harrykane.webp",
+      "playerwiki": "https://en.wikipedia.org/wiki/Harry_Kane",
+      "minute": "91",
+      "link": "https://dubz.co/v/84af30",
+      "video": "https://squeelab.com/uploaded/1719770601.mp4"
     }
+    ]
+  },
+  {
+    "id": 40,
+    "team1": "Spain",
+    "team2": "Georgia",
+    "flag1": "spain.png",
+    "flag2": "georgia.png",
+    "result": "0 - 0",
+    "result1": "0",
+    "result2": "0",
+    "date": "30.6.2024 - 21:00",
+    "venue": "Cologne - RheinEnergieStadion",
+    "venuewiki": "https://en.wikipedia.org/wiki/RheinEnergieStadion",
+    "links": []
+  }
 ]
