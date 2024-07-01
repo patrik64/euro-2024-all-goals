@@ -204,5 +204,20 @@
         "video": "https://dubzalt.com/storage/videos/e79d11.mp4"
       }
     ]
+  },
+  {
+    "id": 42,
+    "team1": "Portugal",
+    "team2": "Slovenia",
+    "flag1": "portugal.png",
+    "flag2": "slovenia.png",
+    "result": "0 - 0",
+    "result1": "0",
+    "result2": "0",
+    "date": "1.7.2024 - 21:00",
+    "venue": "Frankfurt - Waldstadion",
+    "venuewiki": "https://en.wikipedia.org/wiki/Waldstadion_(Frankfurt)",
+    "links": [
+    ]
   }
 ]
