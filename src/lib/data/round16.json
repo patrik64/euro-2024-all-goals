@@ -49,7 +49,6 @@
       "venuewiki": "https://en.wikipedia.org/wiki/Westfalenstadion",
       "links": [
         {
-          "currentresult": "1:0",
           "currentresult1": "1",
           "currentresult2": "0",
           "player": "Kai Havertz",
@@ -60,7 +59,6 @@
           "video": "https://squeelab.com/uploaded/1719693366.mp4"
         },
         {
-          "currentresult": "2:0",
           "currentresult1": "2",
           "currentresult2": "0",
           "player": "Jamal Musiala",
@@ -181,5 +179,19 @@
         "video": "https://squeelab.com/uploaded/1719780095.mp4"
       }
     ]
+  },
+  {
+    "id": 41,
+    "team1": "France",
+    "team2": "Belgium",
+    "flag1": "france.png",
+    "flag2": "belgium.png",
+    "result": "0 - 0",
+    "result1": "0",
+    "result2": "0",
+    "date": "1.7.2024 - 18:00",
+    "venue": "Düsseldorf - Merkur Spiel-Arena",
+    "venuewiki": "https://en.wikipedia.org/wiki/Merkur_Spiel-Arena",
+    "links": []
   }
 ]
