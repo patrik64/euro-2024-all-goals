@@ -186,12 +186,23 @@
     "team2": "Belgium",
     "flag1": "france.png",
     "flag2": "belgium.png",
-    "result": "0 - 0",
-    "result1": "0",
+    "result": "1 - 0",
+    "result1": "1",
     "result2": "0",
     "date": "1.7.2024 - 18:00",
     "venue": "Düsseldorf - Merkur Spiel-Arena",
     "venuewiki": "https://en.wikipedia.org/wiki/Merkur_Spiel-Arena",
-    "links": []
+    "links": [
+      {
+        "currentresult1": "1",
+        "currentresult2": "0",
+        "player": "Jan Vertonghen ",
+        "playerimage": "janvertonghen.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Jan_Vertonghen",
+        "minute": "85 (OG)",
+        "link": "https://dubz.co/c/e79d11",
+        "video": "https://dubzalt.com/storage/videos/e79d11.mp4"
+      }
+    ]
   }
 ]
