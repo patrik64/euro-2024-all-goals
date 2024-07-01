@@ -57,15 +57,17 @@
             </a>
           </div>
           {#if link.player}
-          <div class="my-2">
-            <a rel="external" href="{link.playerwiki}" class="text-gray-500 space-y-4">
-              {link.player} - {link.minute}"
-            </a>
-          </div>
+            <div class="my-2">
+              <a rel="external" href="{link.playerwiki}" class="text-gray-500 space-y-4">
+                {link.player} - {link.minute}"
+              </a>
+            </div>
 
-          <a rel="external" href="{link.playerwiki}">
-            <img class="h-40 w-30 rounded-lg object-cover" src={`/images/players/${link.playerimage}`} alt={link.player} />
-          </a>
+            {#if link.playerimage}
+            <a rel="external" href="{link.playerwiki}">
+              <img class="h-40 w-30 rounded-lg object-cover" src={`/images/players/${link.playerimage}`} alt={link.player} />
+            </a>
+            {/if}
           {/if}
         </dt>
         <dd class="mt-1 text-sm text-gray-600 sm:mt-0 sm:col-span-2">
