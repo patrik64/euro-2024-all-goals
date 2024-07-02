@@ -229,5 +229,19 @@
         "video": "https://squeelab.com/uploaded/1719870199.mp4"
       }
     ]
+  },
+  {
+    "id": 43,
+    "team1": "Romania",
+    "team2": "Netherlands",
+    "flag1": "romania.png",
+    "flag2": "netherlands.png",
+    "result": "0 - 0",
+    "result1": "0",
+    "result2": "0",
+    "date": "2.7.2024 - 18:00",
+    "venue": "Munich - Allianz Arena",
+    "venuewiki": "https://en.wikipedia.org/wiki/Allianz_Arena",
+    "links": []
   }
 ]
