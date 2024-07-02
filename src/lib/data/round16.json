@@ -236,12 +236,23 @@
     "team2": "Netherlands",
     "flag1": "romania.png",
     "flag2": "netherlands.png",
-    "result": "0 - 0",
+    "result": "0 - 1",
     "result1": "0",
-    "result2": "0",
+    "result2": "1",
     "date": "2.7.2024 - 18:00",
     "venue": "Munich - Allianz Arena",
     "venuewiki": "https://en.wikipedia.org/wiki/Allianz_Arena",
-    "links": []
+    "links": [
+      {
+        "currentresult1": "0",
+        "currentresult2": "1",
+        "player": "Cody Gakpo",
+        "playerimage": "codygakpo.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Cody_Gakpo",
+        "minute": "20",
+        "link": "https://dubz.co/c/22050d",
+        "video": "https://dubzalt.com/storage/videos/22050d.mp4"
+      }
+    ]
   }
 ]
