@@ -274,5 +274,19 @@
         "video": "https://squeelab.com/uploaded/1719942753.mp4"
       }
     ]
+  },
+  {
+    "id": 44,
+    "team1": "Austria",
+    "team2": "Turkey",
+    "flag1": "austria.png",
+    "flag2": "turkey.png",
+    "result": "0 - 0",
+    "result1": "0",
+    "result2": "0",
+    "date": "2.7.2024 - 21:00",
+    "venue": "Leipzig - Red Bull Arena",
+    "venuewiki": "https://en.wikipedia.org/wiki/Red_Bull_Arena_(Leipzig)",
+    "links": []
   }
 ]
