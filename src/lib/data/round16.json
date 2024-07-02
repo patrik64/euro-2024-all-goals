@@ -236,9 +236,9 @@
     "team2": "Netherlands",
     "flag1": "romania.png",
     "flag2": "netherlands.png",
-    "result": "0 - 2",
+    "result": "0 - 3",
     "result1": "0",
-    "result2": "2",
+    "result2": "3",
     "date": "2.7.2024 - 18:00",
     "venue": "Munich - Allianz Arena",
     "venuewiki": "https://en.wikipedia.org/wiki/Allianz_Arena",
@@ -262,6 +262,16 @@
         "minute": "83",
         "link": "https://dubz.co/v/e86cb7",
         "video": "https://squeelab.com/uploaded/1719942143.mp4"
+      },
+      {
+        "currentresult1": "0",
+        "currentresult2": "3",
+        "player": "Donyell Malen",
+        "playerimage": "donyellmalen.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Donyell_Malen",
+        "minute": "90+3",
+        "link": "https://dubz.co/v/0fd3b8",
+        "video": "https://squeelab.com/uploaded/1719942753.mp4"
       }
     ]
   }
