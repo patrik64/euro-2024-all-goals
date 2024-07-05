@@ -10,6 +10,7 @@
   import round2 from "$lib/data/round2.json";
   import round3 from "$lib/data/round3.json";
   import round16 from "$lib/data/round16.json";
+  import quarter from "$lib/data/quarter-final.json"
 
   let idx = parseInt(id, 10)
   
@@ -23,8 +24,12 @@
     game = round3[idx - 25];
   }
 
-  if (idx >= 37) {
+  if (idx >= 37 && idx <= 44) {
     game = round16[idx - 37];
+  }
+
+  if (idx >= 45) {
+    game = quarter[idx - 45];
   }
   
 </script>
