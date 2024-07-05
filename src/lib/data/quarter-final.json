@@ -5,8 +5,8 @@
     "team2": "Germany",
     "flag1": "spain.png",
     "flag2": "germany.png",
-    "result": "1 - 1",
-    "result1": "1",
+    "result": "2 - 1",
+    "result1": "2",
     "result2": "1",
     "date": "5.7.2024 - 18:00",
     "venue": "Stuttgart - MHPArena",
@@ -31,6 +31,16 @@
         "minute": "89",
         "link": "https://dubz.co/c/f2d3b0",
         "video": "https://makevos.com/storage/videos/f2d3b0.mp4"
+      },
+      {
+        "currentresult1": "2",
+        "currentresult2": "1",
+        "player": "Mikel Merino",
+        "playerimage": "mikelmerino.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Mikel_Merino",
+        "minute": "120+5",
+        "link": "https://dubz.co/c/cefae9",
+        "video": "https://makevos.com/storage/videos/cefae9.mp4"
       }
     ]
   }
