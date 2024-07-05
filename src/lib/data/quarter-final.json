@@ -50,12 +50,23 @@
     "team2": "France",
     "flag1": "portugal.png",
     "flag2": "france.png",
-    "result": "0 - 0",
+    "result": "[3 - 5]",
     "result1": "0",
     "result2": "0",
     "date": "5.7.2024 - 21:00",
     "venue": "Hamburg - Volksparkstadion",
     "venuewiki": "https://en.wikipedia.org/wiki/Volksparkstadion",
-    "links": []
+    "links": [
+      {
+        "currentresult1": "3",
+        "currentresult2": "5",
+        "player": "Penalties",
+        "playerimage": "",
+        "playerwiki": "https://dubz.co/c/c191fa",
+        "minute": "120",
+        "link": "https://dubz.co/c/c191fa",
+        "video": "https://makevos.com/storage/videos/c191fa.mp4"
+      }
+    ]
   }
 ]
