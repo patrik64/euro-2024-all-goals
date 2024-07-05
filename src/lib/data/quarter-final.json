@@ -5,12 +5,23 @@
     "team2": "Germany",
     "flag1": "spain.png",
     "flag2": "germany.png",
-    "result": "0 - 0",
-    "result1": "0",
+    "result": "1 - 0",
+    "result1": "1",
     "result2": "0",
     "date": "5.7.2024 - 18:00",
     "venue": "Stuttgart - MHPArena",
     "venuewiki": "https://en.wikipedia.org/wiki/MHPArena",
-    "links": []
+    "links": [
+      {
+        "currentresult1": "1",
+        "currentresult2": "0",
+        "player": "Dani Olmo",
+        "playerimage": "daniolmo.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Dani_Olmo",
+        "minute": "51",
+        "link": "https://dubz.co/c/865240",
+        "video": "https://makevos.com/storage/videos/865240.mp4"
+      }
+    ]
   }
 ]
