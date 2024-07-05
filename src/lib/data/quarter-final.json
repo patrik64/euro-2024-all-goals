@@ -5,9 +5,9 @@
     "team2": "Germany",
     "flag1": "spain.png",
     "flag2": "germany.png",
-    "result": "1 - 0",
+    "result": "1 - 1",
     "result1": "1",
-    "result2": "0",
+    "result2": "1",
     "date": "5.7.2024 - 18:00",
     "venue": "Stuttgart - MHPArena",
     "venuewiki": "https://en.wikipedia.org/wiki/MHPArena",
@@ -21,6 +21,16 @@
         "minute": "51",
         "link": "https://dubz.co/c/865240",
         "video": "https://makevos.com/storage/videos/865240.mp4"
+      },
+      {
+        "currentresult1": "1",
+        "currentresult2": "1",
+        "player": "Florian Wirtz",
+        "playerimage": "florianwirtz.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Florian_Wirtz",
+        "minute": "89",
+        "link": "https://dubz.co/c/f2d3b0",
+        "video": "https://makevos.com/storage/videos/f2d3b0.mp4"
       } 
     ]
   }
