@@ -11,7 +11,7 @@
   <!-- quarter-final -->
   <div class="sm:flex sm:items-center">
     <div class="sm:flex-auto">
-      <h1 class="lg:p-10 text-3xl text-gray-600 text-center">Quarter-final</h1>
+      <h1 class="lg:pt-10 text-3xl text-gray-600 text-center">Quarter-final</h1>
     </div>
   </div>
 
@@ -45,7 +45,7 @@
    <!-- round 16 -->
    <div class="sm:flex sm:items-center">
     <div class="sm:flex-auto">
-      <h1 class="lg:p-10 text-3xl text-gray-600 text-center">Round of 16</h1>
+      <h1 class="lg:pt-10 text-3xl text-gray-600 text-center">Round of 16</h1>
     </div>
   </div>
 
@@ -79,7 +79,7 @@
   <!-- round 3 -->
   <div class="sm:flex sm:items-center">
     <div class="sm:flex-auto">
-      <h1 class="lg:p-10 text-3xl text-gray-600 text-center">Round 3</h1>
+      <h1 class="lg:pt-10 text-3xl text-gray-600 text-center">Round 3</h1>
     </div>
   </div>
 
@@ -113,7 +113,7 @@
   <!-- round 2 -->
   <div class="sm:flex sm:items-center">
     <div class="sm:flex-auto">
-      <h1 class="lg:p-10 text-3xl text-gray-600 text-center">Round 2</h1>
+      <h1 class="lg:pt-10 text-3xl text-gray-600 text-center">Round 2</h1>
     </div>
   </div>
 
@@ -146,7 +146,7 @@
 
   <!-- round 1 -->
   <div class="flex justify-center items-center">
-    <h1 class="lg:p-10 text-3xl text-gray-600">Round 1</h1>
+    <h1 class="lg:pt-10 text-3xl text-gray-600">Round 1</h1>
   </div>
 
   
