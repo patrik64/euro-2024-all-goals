@@ -120,12 +120,23 @@
     "team2": "Turkey",
     "flag1": "netherlands.png",
     "flag2": "turkey.png",
-    "result": "0 - 0",
+    "result": "0 - 1",
     "result1": "0",
-    "result2": "0",
+    "result2": "1",
     "date": "6.7.2024 - 21:00",
     "venue": "Berlin - Olympiastadion",
     "venuewiki": "https://en.wikipedia.org/wiki/Olympiastadion_(Berlin)",
-    "links": []
+    "links": [
+      {
+        "currentresult1": "0",
+        "currentresult2": "1",
+        "player": "Samet Akaydin",
+        "playerimage": "sametakaydin.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Samet_Akaydin",
+        "minute": "35",
+        "link": "https://dubz.co/v/9e0be1",
+        "video": "https://squeelab.com/uploaded/1720294560.mp4"
+      }
+    ]
   }
 ]
