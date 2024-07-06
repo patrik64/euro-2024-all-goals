@@ -38,7 +38,7 @@
         "player": "Mikel Merino",
         "playerimage": "mikelmerino.webp",
         "playerwiki": "https://en.wikipedia.org/wiki/Mikel_Merino",
-        "minute": "120+5",
+        "minute": "119",
         "link": "https://dubz.co/c/cefae9",
         "video": "https://makevos.com/storage/videos/cefae9.mp4"
       }
@@ -75,11 +75,12 @@
     "team2": "Switzerland",
     "flag1": "england.png",
     "flag2": "switzerland.png",
-    "result": "1 - 1",
+    "result": "[6 - 4]",
     "result1": "1",
     "result2": "1",
     "date": "6.7.2024 - 18:00",
     "venue": "Düsseldorf - Merkur Spiel-Arena",
+    "venuewiki": "https://en.wikipedia.org/wiki/Merkur_Spiel-Arena",
     "links": [
       {
         "currentresult1": "0",
@@ -100,7 +101,31 @@
         "minute": "75",
         "link": "https://dubz.co/v/fb7eb9",
         "video": "https://squeelab.com/uploaded/1720287397.mp4"
+      },
+      {
+        "currentresult1": "5",
+        "currentresult2": "3",
+        "player": "Penalties",
+        "playerimage": "",
+        "playerwiki": "https://dubz.co/c/575ffc",
+        "minute": "120",
+        "link": "https://dubz.co/c/575ffc",
+        "video": "https://makevos.com/storage/videos/575ffc.mp4"
       }
     ]
+  },
+  {
+    "id": 48,
+    "team1": "Netherlands",
+    "team2": "Turkey",
+    "flag1": "netherlands.png",
+    "flag2": "turkey.png",
+    "result": "0 - 0",
+    "result1": "0",
+    "result2": "0",
+    "date": "6.7.2024 - 21:00",
+    "venue": "Berlin - Olympiastadion",
+    "venuewiki": "https://en.wikipedia.org/wiki/Olympiastadion_(Berlin)",
+    "links": []
   }
 ]
