@@ -68,5 +68,18 @@
         "video": "https://makevos.com/storage/videos/c191fa.mp4"
       }
     ]
+  },
+  {
+    "id": 47,
+    "team1": "England",
+    "team2": "Switzerland",
+    "flag1": "england.png",
+    "flag2": "switzerland.png",
+    "result": "0 - 0",
+    "result1": "0",
+    "result2": "0",
+    "date": "6.7.2024 - 18:00",
+    "venue": "Düsseldorf - Merkur Spiel-Arena",
+    "links": []
   }
 ]
