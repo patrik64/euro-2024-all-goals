@@ -50,12 +50,23 @@
     "team2": "England",
     "flag1": "netherlands.png",
     "flag2": "england.png",
-    "result": "0 - 0",
-    "result1": "0",
+    "result": "1 - 0",
+    "result1": "1",
     "result2": "0",
     "date": "10.7.2024 - 21:00",
     "venue": "Dortmund - Westfalenstadion",
     "venuewiki": "https://en.wikipedia.org/wiki/Westfalenstadion",
-    "links": []
+    "links": [
+      {
+        "currentresult1": "1",
+        "currentresult2": "0",
+        "player": "Xavi Simons",
+        "playerimage": "xavisimons.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Xavi_Simons",
+        "minute": "7",
+        "link": "https://dubz.co/v/e3850e",
+        "video": "https://squeelab.com/uploaded/1720638459.mp4"
+      }
+    ]
   }
 ]
