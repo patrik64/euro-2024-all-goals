@@ -50,9 +50,9 @@
     "team2": "England",
     "flag1": "netherlands.png",
     "flag2": "england.png",
-    "result": "1 - 1",
+    "result": "1 - 2",
     "result1": "1",
-    "result2": "1",
+    "result2": "2",
     "date": "10.7.2024 - 21:00",
     "venue": "Dortmund - Westfalenstadion",
     "venuewiki": "https://en.wikipedia.org/wiki/Westfalenstadion",
@@ -76,6 +76,16 @@
         "minute": "18",
         "link": "https://dubz.co/v/b31eda",
         "video": "https://squeelab.com/uploaded/1720639093.mp4"
+      },
+      {
+        "currentresult1": "1",
+        "currentresult2": "2",
+        "player": "Ollie Watkins",
+        "playerimage": "olliewatkins.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Ollie_Watkins",
+        "minute": "90",
+        "link": "https://dubz.co/v/7aa469",
+        "video": "https://squeelab.com/uploaded/1720644623.mp4"
       }
     ]
   }
