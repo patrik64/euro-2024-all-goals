@@ -43,5 +43,19 @@
         "video": "https://squeelab.com/uploaded/1720553120.mp4"
       }
     ]
+  },
+  {
+    "id": 50,
+    "team1": "Netherlands",
+    "team2": "England",
+    "flag1": "netherlands.png",
+    "flag2": "england.png",
+    "result": "0 - 0",
+    "result1": "0",
+    "result2": "0",
+    "date": "10.7.2024 - 21:00",
+    "venue": "Dortmund - Westfalenstadion",
+    "venuewiki": "https://en.wikipedia.org/wiki/Westfalenstadion",
+    "links": []
   }
 ]
