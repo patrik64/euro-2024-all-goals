@@ -12,6 +12,8 @@
   import round16 from "$lib/data/round16.json";
   import quarter from "$lib/data/quarter-final.json"
   import semi from "$lib/data/semi-final.json"
+  import final from "$lib/data/final.json"
+
 
   let idx = parseInt(id, 10)
   
@@ -35,6 +37,10 @@
 
   if (idx >= 49 && idx <= 50) {
     game = semi[idx - 49];
+  }
+
+  if (idx >= 51) {
+    game = final[idx - 51];
   }
   
 </script>
