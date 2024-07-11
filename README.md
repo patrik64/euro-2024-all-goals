@@ -1,4 +1,4 @@
-All goals made in Euro 2024 championship using [SvelteKit](https://kit.svelte.dev/)
+Video snippets of all goals made in Euro 2024 tournament  using [SvelteKit](https://kit.svelte.dev/)
 
 ```
 pnpm i
