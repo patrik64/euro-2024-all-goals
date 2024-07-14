@@ -5,12 +5,23 @@
     "team2": "England",
     "flag1": "spain.png",
     "flag2": "england.png",
-    "result": "0 - 0",
-    "result1": "0",
+    "result": "1 - 0",
+    "result1": "1",
     "result2": "0",
     "date": "14.7.2024 - 21:00",
     "venue": "Berlin - Olympiastadion",
     "venuewiki": "https://en.wikipedia.org/wiki/Olympiastadion_(Berlin)",
-    "links": []
+    "links": [
+      {
+        "currentresult1": "1",
+        "currentresult2": "0",
+        "player": "Nico Williams",
+        "playerimage": "nicowilliams.webp",
+        "playerwiki": "https://en.wikipedia.org/wiki/Nico_Williams",
+        "minute": "47",
+        "link": "https://dubz.co/v/ad191b",
+        "video": "https://squeelab.com/uploaded/1720987565.mp4"
+      }
+    ]
   }
 ]
