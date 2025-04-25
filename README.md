@@ -8,4 +8,4 @@ pnpm dev --open
 https://euro-2024-all-goals.vercel.app/
 
 [![brahms](https://github-readme-stats.vercel.app/api/pin/?username=patrik64&repo=euro-2024-all-goals&theme=dark
-)](https://github.com/patrik64/brahms)
+)](https://github.com/patrik64/euro-2024-all-goals)
